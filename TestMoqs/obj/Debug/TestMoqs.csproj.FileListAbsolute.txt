@@ -1,0 +1,7 @@
+C:\Users\crcantarino\source\repos\TestMoqs\TestMoqs\obj\Debug\TestMoqs.csprojAssemblyReference.cache
+C:\Users\crcantarino\source\repos\TestMoqs\TestMoqs\obj\Debug\TestMoqs.csproj.CoreCompileInputs.cache
+C:\Users\crcantarino\source\repos\TestMoqs\TestMoqs\bin\Debug\TestMoqs.exe.config
+C:\Users\crcantarino\source\repos\TestMoqs\TestMoqs\bin\Debug\TestMoqs.exe
+C:\Users\crcantarino\source\repos\TestMoqs\TestMoqs\bin\Debug\TestMoqs.pdb
+C:\Users\crcantarino\source\repos\TestMoqs\TestMoqs\obj\Debug\TestMoqs.exe
+C:\Users\crcantarino\source\repos\TestMoqs\TestMoqs\obj\Debug\TestMoqs.pdb
